@@ -1,5 +1,12 @@
-class: middle, center
-<img src="https://s-media-cache-ak0.pinimg.com/originals/ea/88/53/ea8853d740994d7a23b587d20033c262.jpg" width="640">
+class: middle, center, inverse
+
+.grande[TELADEVO]
+##*.cyan[T]eladevo .cyan[E]s .cyan[LA] .cyan[DEVO]lución.*
+
+
+<img src="https://s-media-cache-ak0.pinimg.com/originals/ea/88/53/ea8853d740994d7a23b587d20033c262.jpg" width="250">
+.left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
+
 ---
 class: inverse
 #Devolución
