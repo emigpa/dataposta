@@ -1,5 +1,5 @@
 class: inverse
-#.cyan[TELADEVO]:
+#.cyan[TELADEVO]
 ##*.cyan[T]eladevo .cyan[E]s .cyan[LA] .cyan[DEVO]lución.*
 </br>
 .pull-left[

@@ -1,5 +1,5 @@
 class: inverse
-#Problemas
+#.cyan[Problemas]
 .left[
 * Compilacion lenta
 * Modulo poco intuitivo
