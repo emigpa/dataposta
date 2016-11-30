@@ -5,7 +5,7 @@ class: inverse
 * Datos confiables
 * Homogeneizar criterios entre UUAA
 * Establecer cultura de informacion
-* Colaborar con aŕeas
+* Colaborar con áreas
 ]
 .pull-right[
 ###¿Cómo lo logramos?

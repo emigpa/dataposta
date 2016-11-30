@@ -1,6 +1,6 @@
 class: middle, center, inverse
 
-.grande[Sigeva love]
+.grande[Expedientes SDI]
 
 ### (o cómo conseguir información útil de una fuente infiel)
 
