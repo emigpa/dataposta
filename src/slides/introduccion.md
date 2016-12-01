@@ -5,11 +5,12 @@ class: center, inverse
 ---
 class: inverse
 #.cyan[Usted está aqui]
+</br>
 * Convocatorias
 * Evaluación
 * Resolución
-
 .right[<img src="http://i.giphy.com/YhyAJUCpno53y.gif" width="350">]
+
 .left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
 ---
 class: center, inverse

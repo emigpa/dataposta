@@ -1,9 +1,5 @@
 class: middle, center, inverse
 
-.grande[Expedientes SDI]
-
-### (o cómo conseguir información útil de una fuente infiel)
-
-.left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="200">]]
-
+.left-column[<img src="http://i.giphy.com/3osxYc2axjCJNsCXyE.gif">]
+<div class=grande style="padding-top: 0.81em;padding-left:3em">POSTA</div>
 ---

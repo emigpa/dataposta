@@ -30,7 +30,7 @@ var slideShow = remark.create({
   slideNumberFormat: 'Slide %current% of %total%',
   // .. or by using a format function
   slideNumberFormat: function (current, total) {
-    return 'Slide ' + current + ' of ' + total;
+    return current + ' de ' + total;
   },
 
   // Enable or disable counting of incremental slides in the slide counting
