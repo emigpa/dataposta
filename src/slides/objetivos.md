@@ -1,12 +1,19 @@
 class: inverse
 #.cyan[¿Qué queremos?]
 </br>
+.pull-left[
+* Incorporar al personal que no participa de convocatorias UNSAM
+
 * Datos confiables
+
 * Homogeneizar criterios entre UUAA
-* Establecer cultura de informacion
-* Colaborar con áreas
+]
+.right[<img src="http://i.giphy.com/CUXglttwoVwJy.gif" width="300">]
 
-.right[<img src="http://i.giphy.com/CUXglttwoVwJy.gif" width="250">]
-
+.left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
+---
+class: center, inverse
+#.cyan[Si SIGEVA fuera una naranja]
+<img src="http://i.giphy.com/3o7TKPdUkkbCAVqWk0.gif" width="640">
 .left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
 ---

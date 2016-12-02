@@ -1,16 +1,16 @@
-class: center, inverse
-#.cyan[Hagamos Memoria]
-<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSn325IIBQXRtXlah-DgR1eu7bm9GG44pvo-4G82JIknUICl1oeZA" width="640">
-
-.left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
----
 class: inverse
 #.cyan[Hagamos Memoria]
-.left[
+</br>
+
 * Memoria prototipo
+
 * Reunión
+
 * Establecer directores
-* Capacitacion
-]
+
+* Capacitación
+
+.right[<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSn325IIBQXRtXlah-DgR1eu7bm9GG44pvo-4G82JIknUICl1oeZA" width="420">]
+
 .left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
 ---

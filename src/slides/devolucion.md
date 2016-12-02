@@ -1,14 +1,6 @@
 class: inverse
 #.cyan[Devolución]
-
-</br>
-.pull-left[
-* Estado de datos
-* Productividad nominal
-* Porcentaje de produccion por persona
-* Scopus
-]
-.pull-right[<img src="https://s-media-cache-ak0.pinimg.com/originals/ea/88/53/ea8853d740994d7a23b587d20033c262.jpg" width="350">]
+.center[<img src="https://s-media-cache-ak0.pinimg.com/originals/ea/88/53/ea8853d740994d7a23b587d20033c262.jpg" width="450">]
 
 .left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
 ---
