@@ -6,7 +6,7 @@ class: inverse
 </br>
 </br>
 </br>
-.center[<img src="http://i.giphy.com/tvGFjPwKyr7bO.gif" width="600">]
+.center[<img src="./public/tvGFjPwKyr7bO.gif" width="600">]
 
 .left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
 ---

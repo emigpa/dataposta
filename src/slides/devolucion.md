@@ -1,6 +1,6 @@
 class: inverse
 #.cyan[Devolución]
-.center[<img src="https://s-media-cache-ak0.pinimg.com/originals/ea/88/53/ea8853d740994d7a23b587d20033c262.jpg" width="450">]
+.center[<img src="./public/ea8853d740994d7a23b587d20033c262.jpg" width="450">]
 
 .left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
 ---

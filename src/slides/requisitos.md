@@ -7,7 +7,7 @@ class: inverse
 
 3. Compilación
 
-.right[<img src="http://i.giphy.com/l0HlAgJTVaAPHEGdy.gif" width="350">]
+.right[<img src="./public/l0HlAgJTVaAPHEGdy.gif" width="350">]
 
 .left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
 

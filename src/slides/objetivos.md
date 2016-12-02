@@ -8,12 +8,12 @@ class: inverse
 
 * Homogeneizar criterios entre UUAA
 ]
-.right[<img src="http://i.giphy.com/CUXglttwoVwJy.gif" width="300">]
+.right[<img src="./public/CUXglttwoVwJy.gif" width="300">]
 
 .left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
 ---
 class: center, inverse
 #.cyan[Si SIGEVA fuera una naranja]
-<img src="http://i.giphy.com/3o7TKPdUkkbCAVqWk0.gif" width="640">
+<img src="./public/3o7TKPdUkkbCAVqWk0.gif" width="640">
 .left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
 ---
