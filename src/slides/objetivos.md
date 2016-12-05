@@ -12,8 +12,3 @@ class: inverse
 
 .left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
 ---
-class: center, inverse
-#.cyan[Si SIGEVA fuera una naranja]
-<img src="./public/3o7TKPdUkkbCAVqWk0.gif" width="640">
-.left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
----

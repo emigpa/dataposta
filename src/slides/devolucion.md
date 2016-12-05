@@ -1,11 +1,5 @@
 class: inverse
 #.cyan[Devolución]
-.center[<img src="./public/ea8853d740994d7a23b587d20033c262.jpg" width="450">]
-
-.left[.footnote[<img src="./public/LogoSecInvHorizontalFondoTranspColor.gif" width="120">]]
----
-class: inverse
-#.cyan[Devolución]
 ## Estado de datos
 <div style="margin-top: 80px; margin-left: 10%">Personal registrado en Sigeva-UNSAM</div>
 <div class="chart "style="width: 557px;background-color:#cc00ff;margin-top: 15px">87%</div>
